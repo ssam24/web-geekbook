@@ -1,0 +1,20 @@
+.flexbox-wrap {
+    display: flex; 
+    width: 1000px;
+    height: 700px; 
+    background-color: rgb(128, 177, 194); 
+    margin: 2px auto;
+    flex-wrap: wrap; 
+} 
+.flex-item {
+    width: 200px;
+    height: 100px;
+    margin: 3px;
+    background: lightpink;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    text-align: center; 
+} 
+

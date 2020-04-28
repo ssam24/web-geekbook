@@ -1,0 +1,17 @@
+<style> 
+
+table { 
+    border: 1px; 
+} 
+th {
+    background-color:  #9993BD; 
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+    font-size: 15px;
+}
+td {
+    background-color: bisque; 
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+</style>  
