@@ -1,0 +1,16 @@
+#header{
+    display: flex;
+    background-color: lightgray;
+    min-height: 5vh;
+}
+#main{
+    display: flex;
+    background-color: gray;
+    min-height: 100vh;
+}
+#footer{
+    display: flex;
+    flex-grow: inherit;
+    background-color: orangered;
+    min-height: 5vh;
+}
