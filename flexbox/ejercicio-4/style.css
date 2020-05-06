@@ -1,0 +1,25 @@
+#noticias ul {
+    border: 1px solid violet;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 0px 20px;
+
+}
+#noticias ul li {
+    border: 1px solid violet;
+    flex-wrap: wrap; 
+}
+#noticias ul #noticia5{
+    order: -1;
+    width: 80%;
+    height: 200px;
+}
+#noticias ul #noticia1,
+#noticias ul #noticia2,
+#noticias ul #noticia3,
+#noticias ul #noticia4 {
+    height: 200px;
+    max-width: 39%;
+}
