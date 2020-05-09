@@ -1,0 +1,44 @@
+#nav_bar {
+    color:white;
+    background-color: dimgray;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+}
+#nav_bar h2{
+    width: 100px;
+    margin-left: 50px;
+}
+#nav_bar a {
+    text-align: center;
+    width: 100px;
+    margin-left: 50px;
+    top: 20px;
+}
+#datos {
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+}
+#datos h3 {
+    width: 400;
+    margin-left: 10px;
+
+
+}
+#datos h4 {
+    width: 200;
+    margin-left: 300px;
+    margin-right: 0px;
+}
+#contenido {
+    width: 600px;
+    align-items: center;
+    margin: auto;
+}
+#footer {
+    width: 600px;
+    margin: auto;
+    background-color: lightgrey;
+}
