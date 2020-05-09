@@ -1,0 +1,15 @@
+body{
+    width: 80%;
+}
+div{
+    text-align: left;
+    margin-left: 410px;
+}
+#cookies{
+    margin-left: 0;
+    height: 100px;
+    width: 400px;
+    background-color: yellow;
+    position: fixed;
+    bottom: 0px;
+}
