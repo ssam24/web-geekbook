@@ -1,0 +1,8 @@
+header{
+    background-color: purple;
+    position: fixed;
+}
+main{
+    position: relative;
+    left: 180px;
+}
