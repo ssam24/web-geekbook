@@ -1,0 +1,35 @@
+body{margin:0;}
+.wrapper{
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+  grid-template-rows: 1fr 1fr 1fr;
+}
+
+.item{
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.item1{
+    grid-column: span 12;
+    height: 20vh;
+    background-color: salmon;
+}
+.item2{
+    grid-column: span 4;
+    height: 60vh;
+    background-color: purple;
+}
+.item3{
+    grid-column: span 8;
+    height: 60vh;
+    background-color: sandybrown;
+
+}
+.item4{
+    grid-column: span 12;
+    height: 20vh;
+    background-color: lightblue;
+}
